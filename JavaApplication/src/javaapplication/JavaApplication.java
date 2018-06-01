@@ -19,6 +19,11 @@ public class JavaApplication {
        e1.setEmployeeId(1);
        e1.setEmployeeName("First Employee");
        
+       arithmetic a1 = new arithmetic();
+       System.out.println(a1.sum(10,20));
+       
+    
+       
        
        
        
